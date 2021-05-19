@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=wuyongf&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=wuyongf&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
