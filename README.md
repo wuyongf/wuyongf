@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 May, 2021 - 19 May, 2021
+
+Objective-C   7 mins          ██████████████████░░░░░░░   72.06 % 
+C++           2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.82 % 
 ```
 <!--END_SECTION:waka-->
 
