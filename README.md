@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 May, 2021 - 31 May, 2021
+Week: 25 May, 2021 - 01 June, 2021
 
-C++           3 hrs 23 mins   ████████████▓░░░░░░░░░░░░   51.02 % 
-C             1 hr 54 mins    ███████▒░░░░░░░░░░░░░░░░░   28.77 % 
-Objective-C   1 hr 4 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-C#            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Other         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+C++           27 mins         █████████████▒░░░░░░░░░░░   52.97 % 
+Objective-C   13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.81 % 
+C             11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.18 % 
 ```
 <!--END_SECTION:waka-->
 
